@@ -5,7 +5,7 @@
 
 I'm Irene, a Junior Data Analyst passionate about technology and innovation, I am skilled in statistical analysis, data processing and data visualization, as well as a solid knowledge of Python, PySpark , SQL and Power BI.
 
-## 🌱 SKILLS
+### 🌱 SKILLS
 • Data Analytics
 • Data Visualization
 • Statistical Modeling
@@ -14,20 +14,20 @@ I'm Irene, a Junior Data Analyst passionate about technology and innovation, I a
 Solving Skills
 • Excellent Communication
 
-## 💻 PROGRAMMING LANGUAGES
+###  💻 PROGRAMMING LANGUAGES
 • Python (libraries: pandas,
 numpy, Seaborn, Matplotlib,
 Scikit-learn)
 • PySpark
 • R
 
-## 📊 DATABASES
+### 📊 DATABASES
 • MySQL / SQL Server
 • MongoDB
 • Cassandra
 • Redis
 
-## 🔧 TOOLS
+###  🔧 TOOLS
 • PowerBI
 • Excel
 • Google Analytics
@@ -35,7 +35,7 @@ Scikit-learn)
 • Jupyter Notebook
 • Adobe (illustrator, photoshop, indesign)
 
-## 💬 LANGUAGES
+###  💬 LANGUAGES
 • English 
 • Spanish 
 • Catalan
