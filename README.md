@@ -39,5 +39,5 @@ I'm Irene, a Junior Data Analyst passionate about technology and innovation, I a
 - Catalan
 - Italian 
 
-#####  📧 Contact:irenecastrillob@gmail.com
+####  📧 Contact: irenecastrillob@gmail.com
 
