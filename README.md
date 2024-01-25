@@ -31,7 +31,7 @@ I'm Irene, a Junior Data Analyst passionate about technology and innovation, I a
 - Google Analytics
 - Visual Studio Code
 - Jupyter Notebook
-- Adobe (illustrator, photoshop, indesign)
+- Adobe (illustrator, photoshop, indesign, XD)
 
 ###  💬 LANGUAGES
 - English 
