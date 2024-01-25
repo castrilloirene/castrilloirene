@@ -34,10 +34,10 @@ I'm Irene, a Junior Data Analyst passionate about technology and innovation, I a
 - Adobe (illustrator, photoshop, indesign)
 
 ###  💬 LANGUAGES
-• English 
-• Spanish 
-• Catalan
-• Italian 
+- English 
+- Spanish 
+- Catalan
+- Italian 
 
 #####  📧 Contact:irenecastrillob@gmail.com
 
